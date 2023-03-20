@@ -1,0 +1,7 @@
+README.org
+.dir-locals.el
+build.sh
+^codecov\.yml$
+^\.github$
+.travis.yml
+tests.RData
